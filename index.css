@@ -1,0 +1,16 @@
+.hello-world {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.world-styling {
+    color: white;
+    background-color: black;
+}
+
+.list-style {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
